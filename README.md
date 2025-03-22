@@ -34,6 +34,6 @@ O aplicativo de estacionamento possui as seguintes funcionalidades:
 [Protótipo no Figma - Wireframe Média Fidelidade](https://www.figma.com/design/i8INc6whtf5VRssyDtn1Gv/desafio_dio_wireframe_media_fidelidade?node-id=0-1&p=f&t=naz8rLJr2h8WAxDx-0)
 
 
-[Protótipo no Figma - Design System]([https://www.figma.com/design/i8INc6whtf5VRssyDtn1Gv/desafio_dio_wireframe_media_fidelidade?node-id=0-1&p=f&t=naz8rLJr2h8WAxDx-0](https://www.figma.com/design/i8INc6whtf5VRssyDtn1Gv/desafio_dio_wireframe_media_fidelidade?node-id=52-59&p=f&t=vBSYnKX7vqkWCtze-0))
+[Protótipo no Figma - Design System](https://www.figma.com/design/i8INc6whtf5VRssyDtn1Gv/desafio_dio_wireframe_media_fidelidade?node-id=52-59&p=f&t=vBSYnKX7vqkWCtze-0)
 
 > **Nota**: Este aplicativo foi desenvolvido por mim e a prototipação não contempla todas as funcionalidades.
